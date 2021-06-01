@@ -7,7 +7,7 @@
       "client": {
         "use": "@cloudbase/framework-plugin-container",
         "inputs": {
-          "serviceName": "wordpress",
+          "serviceName": "drawio",
           "cpu": 2,
           "mem": 4,
           "servicePath": "/",
