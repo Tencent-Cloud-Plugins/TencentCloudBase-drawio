@@ -19,6 +19,9 @@
           "customLogs": "stdout,/dev/stdout,/dev/stderr"
         }
       }
+    },
+    "requirement": {
+      "addons": []
     }
   }
 }
